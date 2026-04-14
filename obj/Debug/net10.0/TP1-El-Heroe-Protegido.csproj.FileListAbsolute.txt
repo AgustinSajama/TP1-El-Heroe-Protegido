@@ -1,0 +1,15 @@
+C:\Users\alumno\Documents\TP1-El-Heroe-Protegido\bin\Debug\net10.0\TP1-El-Heroe-Protegido.exe
+C:\Users\alumno\Documents\TP1-El-Heroe-Protegido\bin\Debug\net10.0\TP1-El-Heroe-Protegido.deps.json
+C:\Users\alumno\Documents\TP1-El-Heroe-Protegido\bin\Debug\net10.0\TP1-El-Heroe-Protegido.runtimeconfig.json
+C:\Users\alumno\Documents\TP1-El-Heroe-Protegido\bin\Debug\net10.0\TP1-El-Heroe-Protegido.dll
+C:\Users\alumno\Documents\TP1-El-Heroe-Protegido\bin\Debug\net10.0\TP1-El-Heroe-Protegido.pdb
+C:\Users\alumno\Documents\TP1-El-Heroe-Protegido\obj\Debug\net10.0\TP1-El-Heroe-Protegido.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alumno\Documents\TP1-El-Heroe-Protegido\obj\Debug\net10.0\TP1-El-Heroe-Protegido.AssemblyInfoInputs.cache
+C:\Users\alumno\Documents\TP1-El-Heroe-Protegido\obj\Debug\net10.0\TP1-El-Heroe-Protegido.AssemblyInfo.cs
+C:\Users\alumno\Documents\TP1-El-Heroe-Protegido\obj\Debug\net10.0\TP1-El-Heroe-Protegido.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Documents\TP1-El-Heroe-Protegido\obj\Debug\net10.0\TP1-El-Heroe-Protegido.sourcelink.json
+C:\Users\alumno\Documents\TP1-El-Heroe-Protegido\obj\Debug\net10.0\TP1-El-Heroe-Protegido.dll
+C:\Users\alumno\Documents\TP1-El-Heroe-Protegido\obj\Debug\net10.0\refint\TP1-El-Heroe-Protegido.dll
+C:\Users\alumno\Documents\TP1-El-Heroe-Protegido\obj\Debug\net10.0\TP1-El-Heroe-Protegido.pdb
+C:\Users\alumno\Documents\TP1-El-Heroe-Protegido\obj\Debug\net10.0\TP1-El-Heroe-Protegido.genruntimeconfig.cache
+C:\Users\alumno\Documents\TP1-El-Heroe-Protegido\obj\Debug\net10.0\ref\TP1-El-Heroe-Protegido.dll
