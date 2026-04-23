@@ -1,4 +1,5 @@
 using System;
+using System.Collections.Generic;
 
 public abstract class Heroe
 {
@@ -29,7 +30,6 @@ public abstract class Heroe
         this.puntosVida = puntosVida;
     }
     
-    // Método virtual/abstracto para polimorfismo
     public abstract void Atacar();
 }
 
@@ -57,7 +57,7 @@ public class Guerrero : Heroe
     
     public override void Atacar()
     {
-        Console.WriteLine($"El guerrero {Nombre} ataca con su espada usando {fuerza} de poder");
+        Console.WriteLine($"el guerrero {Nombre} ataca con su espada usando {fuerza} de poder");
     }
 }
 
@@ -70,21 +70,28 @@ public class Mago : Heroe
     
     public override void Atacar()
     {
-        Console.WriteLine($"El mago {Nombre} lanza un hechizo");
+        Console.WriteLine($"el mago {Nombre} tira un hechizo");
     }
 }
 
 class Program
 {
     static void Main(string[] args)
-    {
-        Console.WriteLine("=== PRUEBA DE HERENCIA Y POLIMORFISMO ===\n");
+    {     
+        Console.WriteLine("creando lista de heroes");
+        List<Heroe> listaHeroes = new List<Heroe>();
         
         Guerrero thor = new Guerrero("Thor", 120, 85);
         Mago merlin = new Mago("Merlín", 80);
         
-        Console.WriteLine("=== PRUEBA DE ATAQUES ===\n");
-        thor.Atacar();
-        merlin.Atacar();
+        listaHeroes.Add(thor);
+        listaHeroes.Add(merlin);
+        
+        Console.WriteLine($"se agregaron {listaHeroes.Count} heroes a la lista\n");
+        Console.WriteLine("los heroes atacan");
+        foreach (Heroe heroe in listaHeroes)
+        {
+            heroe.Atacar();
+        }
     }
 }

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TP1-El-Heroe-Protegido")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+78573888e51bc685c09b566485b3d2ca5641a538")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e007914f1ae2dfed4de635d35a4e4d6dfa9f134b")]
 [assembly: System.Reflection.AssemblyProductAttribute("TP1-El-Heroe-Protegido")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TP1-El-Heroe-Protegido")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
